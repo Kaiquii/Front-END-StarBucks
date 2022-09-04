@@ -1,2 +1,2 @@
 # Front-END-StarBucks
-Todos os meus projetos em front-end!!
+Projeto StarBucks HTML e CSS
